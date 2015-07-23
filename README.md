@@ -31,6 +31,8 @@ Formulários
 
  - Dados informados nos formulários não-podem ser perdidos quando o usuário trocar de tela.
 
+ - Os formulários não devem permitir aparecer caracteres que são proibidos e depois remover rapidamente.
+
 Botão submit
 ============
 
